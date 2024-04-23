@@ -19,4 +19,6 @@ Marketing view dashboards are referred by stakeholders at executive level to und
 ## Supply Chain View 
 Supply Chain view dashboards are referred by logistic stakeholders to understand the operations such as delivering the products to customers and allow businesses to identify opportunies of improvement.
 
-  
+# Power BI Dashboards Overview
+The section gives technical details used to develop the dashboards in Microsoft Power BI attached in the above folder.
+Transforming data in Power Query using M-language, to tackle 
