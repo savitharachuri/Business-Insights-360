@@ -22,7 +22,7 @@ Supply Chain view dashboards are referred by logistic stakeholders to understand
 # Power BI Dashboards Overview
 The section gives technical details used to develop the dashboards in Microsoft Power BI attached in the above folder.
  
- -> Transforming data in Power Query using M-language, to tackle data cleaning tasks such as handling NULL values and duplicates, capturing most recent date with List.max function. 
-    Organising the tables into different folders according to dimension tables and fact tables, hiding the tables that are unecessary.
+ -> **Transforming data** in Power Query using **M-language**, to tackle data cleaning tasks such as handling NULL values and duplicates, capturing most recent date with List.max 
+    function. Organising the tables into different folders according to dimension tables and fact tables, hiding the tables that are unecessary.
 
  -> 
