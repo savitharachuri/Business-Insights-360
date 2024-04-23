@@ -1,5 +1,5 @@
 # Business-Insights-360
-Power BI Dashboard visualizing Business Insights pertaining to various users 
+Power BI Dashboard visualizing Business Insights pertaining to various users or stakeholders
 
 # Dataset Overview
 AtliQ Technologies is an emerging Business Consulting and IT organisation in India, which is known for their e-commerce and retail businesses in selling various types of computer devices and accessories. The dataset considered is real-time data from AtliQ Technologies. 
