@@ -25,5 +25,5 @@ The section gives technical details used to develop the dashboards in Microsoft 
  -> **Transforming data** in Power Query using **M-language**, to tackle data cleaning tasks such as handling NULL values and duplicates, capturing most recent date with List.max 
     function. Organising the tables into different folders according to dimension tables and fact tables, hiding the tables that are unecessary.
 
- -> Identifying Key Performing Information (KPIs) for various views and calculating them using either by creating custom columns or measures using DAX language. Making use of 
+ -> Identifying Key Performing Information (KPIs) for various views and calculating them using either by creating custom columns or measures using **DAX language**. Making use of 
     appropriate graphs to represent the data.
