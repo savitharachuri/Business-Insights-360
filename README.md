@@ -21,4 +21,4 @@ Supply Chain view dashboards are referred by logistic stakeholders to understand
 
 # Power BI Dashboards Overview
 The section gives technical details used to develop the dashboards in Microsoft Power BI attached in the above folder.
-Transforming data in Power Query using M-language, to tackle 
+ -> Transforming data in Power Query using M-language, to tackle 
